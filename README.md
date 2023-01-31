@@ -1,0 +1,2 @@
+# ayoedstudio
+mini intranctive startup
